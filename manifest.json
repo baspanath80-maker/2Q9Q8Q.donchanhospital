@@ -1,0 +1,32 @@
+{
+  "name": "Mental Health Smart Check",
+  "short_name": "Mental Smart",
+  "description": "ระบบประเมินและคัดกรองสุขภาพจิต (2Q, 9Q, ST-5, 8Q) โรงพยาบาลดอนจาน",
+  "lang": "th",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f0f3f7",
+  "theme_color": "#6c5ce7",
+  "icons": [
+    {
+      "src": "./180.png",
+      "sizes": "1800x1800",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./192.png",
+      "sizes": "1920x1920",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
